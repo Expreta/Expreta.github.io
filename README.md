@@ -1,37 +1,11 @@
 ## Coming Soon
 
-You can use the [editor on GitHub](https://github.com/Expreta/Expreta.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Expreta isn't finished yet. We are still making changes based on feedback recevied throughout multiple organizations. In case you want to be updated, use the [following form](https://docs.google.com/forms/d/e/1FAIpQLSds6VL5l3STbz9R5_ImmQWLnFkH-N4V1TF20FHCs8NCQwe8fQ/viewform?usp=sf_link).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Feedback
 
-### Markdown
+You want to give us feedback on how we could better adapt our solution to a certain sector, or just in general? Contact us [here](https://docs.google.com/forms/d/e/1FAIpQLSds6VL5l3STbz9R5_ImmQWLnFkH-N4V1TF20FHCs8NCQwe8fQ/viewform?usp=sf_link).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Implementation
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Expreta/Expreta.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Expreta team is currently searching an organization that would try a pilot project. If you want to try Expreta on a few employees in companies, contact us [here](https://docs.google.com/forms/d/e/1FAIpQLSds6VL5l3STbz9R5_ImmQWLnFkH-N4V1TF20FHCs8NCQwe8fQ/viewform?usp=sf_link).
